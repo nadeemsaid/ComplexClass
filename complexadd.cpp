@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-int main();
 class Complex {
 
 private:
@@ -43,12 +42,9 @@ real_val = real_;
 imag_val = imag_;
 }
 
-int main(){
 
-	std::cout << "Hello World!" << std::endl;
 
-	return 0;
-}
+
 
 
 
